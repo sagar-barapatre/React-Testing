@@ -21,3 +21,7 @@ Run `npm test` in order to run the test suite. Of course, this isn't going to ac
 ## Stretch Goals
 
 Add additional test files `calculate.test.js` and `operate.test.js` in the `tests` directory to test the files in the `./src/logic` folder. The files in this directory aren't React components, so for testing them you'll actually just be using Jest without Enzyme.
+
+## Maintainer
+
+[Sagar Barapatre](https://www.github.com/sagar-barapatre)
